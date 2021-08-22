@@ -9,12 +9,12 @@
     <img src="https://img.icons8.com/material/50/7EA5CE/mail.png"/></a>
 </p>
 
-### Hi there 👋
+### 👋 Hi there
 My name is Aleksei Volkov, and I am a developer from Russia. Currently I am studying Engineering & Computer Science at Moscow Institute of Physics and Technology.
 
 I am interested in Functional Programming and applications of Type Theory, though this is not the only focus of my projects.
 
-### Technologies I use
+### 💻 Technologies I use
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![nasm](img/NASM.svg)
@@ -25,9 +25,10 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
-### Hackathons
+### 🏆 Hackathons
 
-### Fancy stats 
+
+### 📈 Fancy stats 
 [![AlgebraicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgebraicWolf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgebraicWolf&theme=radical&langs_count=8&layout=compact&hide=CMake,Makefile,TeX,HTML,CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
 
