@@ -25,6 +25,8 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
+### Hackathons
+
 ### Fancy stats 
 [![AlgebraicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgebraicWolf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgebraicWolf&theme=radical&langs_count=8&layout=compact&hide=CMake,Makefile,TeX,HTML,CSS,JavaScript)](https://github.com/anuraghazra/github-readme-stats)
