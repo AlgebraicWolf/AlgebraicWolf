@@ -26,7 +26,11 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 
 ### 🏆 Hackathons
-
+| Hackathon | Dates | Result |
+|-----------|-------|--------|
+| Hack.Genesis_ONLINE_ (BCS) | 29 Oct 2020 | 🥇 |
+| Hack.Genesis_ONLINE_ (Oprosso) | 16-18 Apr 2021| 🥇 |
+| Leaders of Digital - Creative Industries (Ministry of Culture of the Samara Region) | 20-22 Aug 2021 | 🥇 |
 
 ### 📈 Fancy stats 
 [![AlgebraicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgebraicWolf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
