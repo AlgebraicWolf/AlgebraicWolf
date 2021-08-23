@@ -27,7 +27,7 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 
 ### 🏆 Hackathons
 | Hackathon | Dates | Result |
-|-----------|-------|--------|
+|-----------|-------|:------:|
 | Hack.Genesis_ONLINE_ (BCS) | 29 Oct 2020 | 🥇 |
 | Hack.Genesis_ONLINE_ (Oprosso) | 16-18 Apr 2021| 🥇 |
 | Leaders of Digital - Creative Industries (Ministry of Culture of the Samara Region) | 20-22 Aug 2021 | 🥇 |
