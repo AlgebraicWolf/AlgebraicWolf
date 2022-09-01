@@ -10,7 +10,7 @@
 </p>
 
 ### 👋 Hi there
-My name is Aleksei Volkov, and I am a developer from Russia. Currently I am studying Engineering & Computer Science at Moscow Institute of Physics and Technology.
+My name is Aleksei Volkov, and I am a developer from Russia. Currently I am studying Engineering & Computer Science.
 
 I am interested in Functional Programming and applications of Type Theory, though this is not the only focus of my projects.
 
