@@ -33,10 +33,11 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 | Leaders of Digital - Creative Industries (Ministry of Culture of the Samara Region) | 20-22 Aug 2021 | 🥇 |
 | Leaders of Digital - Finale (Rostelecom) | 2-4 Dec 2021 | 🥇<br /> Russian Post Grant |
 
+<!--
 ### 📈 Fancy stats 
 [![AlgebraicWolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgebraicWolf&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlgebraicWolf&theme=radical&langs_count=8&layout=compact&hide=CMake,Makefile,TeX,HTML,CSS,JavaScript,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <p align="center">
   Check out some of my repos and don't hesitate to contact me.
   
