@@ -14,6 +14,7 @@ My name is Aleksei Volkov, and I am a developer from Russia. Currently I am stud
 
 I am interested in Functional Programming and applications of Type Theory, though this is not the only focus of my projects.
 
+<!--
 ### 💻 Technologies I use
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,6 +25,7 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 ![Idris](img/IDRIS.svg)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
+-->
 
 ### 🏆 Hackathons
 | Hackathon | Dates | Result |
