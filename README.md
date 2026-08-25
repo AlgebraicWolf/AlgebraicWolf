@@ -1,7 +1,4 @@
 <p align="center">
-  <a href="https://vk.com/algebraicwolf">
-    <img src="https://img.icons8.com/material/50/7EA5CE/vk-circled.png"/></a>
-  
   <a href="https://t.me/AlgebraicWolf/">
     <img src="https://img.icons8.com/material/50/7EA5CE/telegram-app.png"/></a>
   
@@ -27,6 +24,7 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 ![Flutter](https://img.shields.io/static/v1?style=for-the-badge&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF&label=)
 -->
 
+<!--
 ### 🏆 Hackathons
 | Hackathon | Dates | Result |
 |-----------|-------|:------:|
@@ -34,6 +32,7 @@ I am interested in Functional Programming and applications of Type Theory, thoug
 | Hack.Genesis_ONLINE_ (Oprosso) | 16-18 Apr 2021| 🥇 |
 | Leaders of Digital - Creative Industries (Ministry of Culture of the Samara Region) | 20-22 Aug 2021 | 🥇 |
 | Leaders of Digital - Finale (Rostelecom) | 2-4 Dec 2021 | 🥇<br /> Russian Post Grant |
+-->
 
 <!--
 ### 📈 Fancy stats 
